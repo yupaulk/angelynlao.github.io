@@ -23,7 +23,7 @@ email: angelyn.lao@dlsu.edu.ph
 description: >- # this means to ignore newlines until "baseurl:"
   This site is powered by Jekyll and GitHub Pages. Design was derived from the minima theme.
 baseurl: "website" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://github.com/yupaulk" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_username: angelyn.lao
 github_username: angelyn.lao #PAUL: Add github account here
 linkedin_username: angelyn-lao-69249a140
