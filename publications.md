@@ -5,6 +5,11 @@ permalink: /publications/
 ---
 ARTICLES
 
+2022 | <u>A. Lao</u>, M.A. Dela Cruz, G.J. Tenio, P. Sy, E. Mendoza. [**Stochastic Process Algebra Model of Amyloidogenic Processing in Alzheimer’s Disease.**](https://link.springer.com/chapter/10.1007/978-3-030-79606-8_18) In Towards Intelligent Systems Modeling and Simulation, 249-263. Springer, Cham. 2022.
+2021 | R. Tan, K. Aviso, <u>A. Lao</u>, M. Promentilla. [**Modelling vicious networks with P-graph causality maps.**](https://link.springer.com/article/10.1007/s10098-021-02096-x) Clean technologies and environmental policy 24 (1), 173-184. 2021.
+| <u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. [**Concentration Robustness in LP Kinetic Systems.**](https://arxiv.org/pdf/2110.13845.pdf) arXiv preprint arXiv:2110.13845.
+| <u>A. Lao</u>, K. Aviso, H. Cabezas, R. Tan. [**Maintaining the Resilience and Productivity of Co-culture Systems in the Face of Environmental Change.**](https://assets.researchsquare.com/files/rs-856052/v1/e6bffec7-2219-479e-aaaa-52ee7ef110dc.pdf?c=1632234919)
+| R. Tan, K. Aviso, <u>A. Lao</u>, M. Promentilla. [**P-graph causality maps.**](https://link.springer.com/article/10.1007/s41660-020-00147-2) Process Integration and Optimization for Sustainability 5 (3), 319-334. 2021.
 2020 | <u>A. Lao</u> et al. [**Cytotoxic Activity of _Raphanus sativus Linn._ on Selected Cancer Cell Lines and Mechanistic Pathways Predicted through Mathematical Modeling.**](https://www.springerprofessional.de/en/cytotoxic-activity-of-raphanus-sativus-linn-on-selected-cancer-c/19249180) Springer Proceedings in Mathematics & Statistics, 2020.
 | K. Fields, N. Fortun, G.A. Solano, <u>A. Lao</u>. [**CRNet Translator: Building GMA, SSystem Models and Chemical Reaction Networks of Disease and Metabolic Pathways.**](https://ieeexplore.ieee.org/document/9284412) In 2020 11th International Conference on Information, Intelligence, Systems and Applications (IISA), IEEE, 2020.
 | JM Recario, G.A. Solano, <u>A. Lao</u>. [**PlaPhy-SMD: A Database System of Plants and their Phytochemicals Integrated with Small-Molecule Drugs and their Condition and Gene Associations with Clustering and Product Ingredient Matching.**](https://ieeexplore.ieee.org/document/9284382) In 2020 11th International Conference on Information, Intelligence, Systems and Applications (IISA), IEEE, 2020.
