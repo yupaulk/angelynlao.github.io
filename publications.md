@@ -20,7 +20,7 @@ R. Tan, K. Aviso, <u>A. Lao</u>, M. Promentilla. [**P-graph causality maps.**](h
 2020 <br>
 <u>A. Lao</u> et al. [**Cytotoxic Activity of _Raphanus sativus Linn._ on Selected Cancer Cell Lines and Mechanistic Pathways Predicted through Mathematical Modeling.**](https://www.springerprofessional.de/en/cytotoxic-activity-of-raphanus-sativus-linn-on-selected-cancer-c/19249180) Springer Proceedings in Mathematics & Statistics, 2020.
 
-K. Fields, N. Fortun, G.A. Solano, <u>A. Lao</u>. [**CRNet Translator: Building GMA, SSystem Models and Chemical Reaction Networks of Disease and Metabolic Pathways.**](https://ieeexplore.ieee.org/document/9284412) In 2020 11th International Conference on Information, Intelligence, Systems and Applications (IISA), IEEE, 2020.
+K. Fields, N. Fortun, G.A. Solano, <u>A. Lao</u>. [**CRNet Translator: Building GMA, S-System Models and Chemical Reaction Networks of Disease and Metabolic Pathways.**](https://ieeexplore.ieee.org/document/9284412) In 2020 11th International Conference on Information, Intelligence, Systems and Applications (IISA), IEEE, 2020.
 
 JM Recario, G.A. Solano, <u>A. Lao</u>. [**PlaPhy-SMD: A Database System of Plants and their Phytochemicals Integrated with Small-Molecule Drugs and their Condition and Gene Associations with Clustering and Product Ingredient Matching.**](https://ieeexplore.ieee.org/document/9284382) In 2020 11th International Conference on Information, Intelligence, Systems and Applications (IISA), IEEE, 2020.
 
@@ -102,17 +102,17 @@ DS Tan, RN Leong, AF Laguna, CA Ngo, <u>A Lao</u>, D Amalin, and D Alvindia. [**
 **SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
 
 2019 <br>
-[**Systems Biology of Alzheimer’s Disease: Understanding How to Prevent or Delay its Onset or Progression**](https://iciam2019.com/images/site/news/ICIAM2019_PROGRAM_ABSTRACTS_BOOK.pdf) <br> International Congress for Industrial and Applied Mathematics <br> Valencia, Spain
+[**Systems Biology of Alzheimer’s Disease: Understanding How to Prevent or Delay its Onset or Progression**](https://iciam2019.com/) <br> International Congress for Industrial and Applied Mathematics <br> Valencia, Spain
 
-[**Species Subsets and Embedded Networks of S-systems**](https://mathsites.unibe.ch/siamag19/program.pdf) <br> SIAM conference on Applied Algebraic Geometry <br> University of Bern, Switzerland
+[**Species Subsets and Embedded Networks of S-systems**](https://mathsites.unibe.ch/siamag19/) <br> SIAM conference on Applied Algebraic Geometry <br> University of Bern, Switzerland
 
 2018 <br>
-**Multi-stationarity Analysis of the Earth’s Pre-industrial Carbon Cycle Models using Chemical Reaction Network Theory** <br> International Congress of Mathematics <br> Rio de Janeiro, Brazil
+[**Multi-stationarity Analysis of the Earth’s Pre-industrial Carbon Cycle Models using Chemical Reaction Network Theory**](https://www.mathunion.org/fileadmin/IMU/ICM2018/static_site/portal/main.html) <br> International Congress of Mathematics <br> Rio de Janeiro, Brazil
 
 2017 <br>
-**A Mathematical Model Explaining the Effect of Raphanus Sativus on Cancer Diseases** <br> Annual Meeting of the Society of Mathematical Biology <br> University of Utah, USA
+[**A Mathematical Model Explaining the Effect of Raphanus Sativus on Cancer Diseases**](https://www.isemworld.org/2017/01/24/2017-annual-meeting-of-the-society-for-mathematical-biology/#:~:text=The%202017%20Society%20for%20Mathematical,City%20from%20July%2017%2D20.) <br> Annual Meeting of the Society of Mathematical Biology <br> University of Utah, USA
 
-**Reactant Subspaces of Power Las Kinetic Systems** <br> Mathematical Society of the Philippines Annual Convention <br> Legaspi Bicol, Philippines
+[**Reactant Subspaces of Power Las Kinetic Systems**](http://www.mathsociety.ph/index.php?option=com_content&view=article&id=36&Itemid=145) <br> Mathematical Society of the Philippines Annual Convention <br> Legaspi Bicol, Philippines
 
 2016 <br>
 **An In-host Dynamics on the Effects of Tabacco Smoking in the Activation of Tcells and Response Activity of Macrophages in Leptospira Infection** <br> International Conference on Mathematical and Computational Modeling of Biological Systems <br> University of the Philippines, Diliman, Philippines
@@ -121,26 +121,26 @@ DS Tan, RN Leong, AF Laguna, CA Ngo, <u>A Lao</u>, D Amalin, and D Alvindia. [**
 
 **CRNT Polyglot: One Stop Platform for Generating Chemicat Reaction Network Models** <br> International Conference on Mathematical and Computational Modeling of Biological Systems <br> University of the Philippines, Diliman, Philippines
 
-**Chemical reaction network approaches to biochemical systems theory** <br> The Asian Mathematical Conference <br> Kabupaten Badung, Bali, Indonesia
+[**Chemical reaction network approaches to biochemical systems theory**](https://10times.com/amc-bali) <br> The Asian Mathematical Conference <br> Kabupaten Badung, Bali, Indonesia
 
-[**Modeling the Effect of _Raphanus sativus_ Extract on the Pathogenesis of Chronic Myeloid Leukemia, Breast and Colon Cancer**](http://indico.ictp.it/event/7654/material/4/0.pdf) <br> Hands-on Research on Complex System <br> The Abdus Salam International Centre for Theoretical Physics, Trieste, Italy
+[**Modeling the Effect of _Raphanus sativus_ Extract on the Pathogenesis of Chronic Myeloid Leukemia, Breast and Colon Cancer**](http://indico.ictp.it/event/7654/) <br> Hands-on Research on Complex System <br> The Abdus Salam International Centre for Theoretical Physics, Trieste, Italy
 
-**Systems Biology Approach of Understanding the Effect of _Raphanus sativus_ Extract on the Pathogenesis of Chronic Myeloid Leukemia, Breast and Colon Cancer** <br> International Synthetic and Systems Biology Summer School <br> TaoSciences Research Center, SIAF, Volterra, Italy
+[**Systems Biology Approach of Understanding the Effect of _Raphanus sativus_ Extract on the Pathogenesis of Chronic Myeloid Leukemia, Breast and Colon Cancer**](https://www.iscb.org/cms_addon/events/details.php?uid=2201) <br> International Synthetic and Systems Biology Summer School <br> TaoSciences Research Center, SIAF, Volterra, Italy
 
-**Understanding the Effect of _Raphanus sativus_ Extract on the Pathogenesis of Chronic Myeloid Leukemia, Breast and Colon Cancer through Mathematical Modeling** <br> Mathematical Society of the Philippines Annual Convention <br> Bayfront Hotel, Cebu, Philippines
+[**Understanding the Effect of _Raphanus sativus_ Extract on the Pathogenesis of Chronic Myeloid Leukemia, Breast and Colon Cancer through Mathematical Modeling**](http://www.mathsociety.ph/index.php?option=com_content&view=article&id=7&Itemid=113) <br> Mathematical Society of the Philippines Annual Convention <br> Bayfront Hotel, Cebu, Philippines
 
 2015 <br>
-**Stability Analysis of the ODE Model Representation of Amyloidogenic Processing in Alzheimer's Disease in the Presence of SORLA** <br> 3rd Asian Regional Conference on Systems Biology 2015 <br> Hotel Bangi-Putrajaya, Selangor, Malaysia
+[**Stability Analysis of the ODE Model Representation of Amyloidogenic Processing in Alzheimer's Disease in the Presence of SORLA**](https://arcsb2015.weebly.com/main.html) <br> 3rd Asian Regional Conference on Systems Biology 2015 <br> Hotel Bangi-Putrajaya, Selangor, Malaysia
 
-**Pathogenesis with Resistance Genes using Stochastic BioAmbient Calculus** <br> Mathematical Society of the Philippines Annual Convention <br> Laoag, Philippines
+[**Pathogenesis with Resistance Genes using Stochastic BioAmbient Calculus**](http://www.mathsociety.ph/index.php?option=com_content&view=article&id=13&Itemid=118) <br> Mathematical Society of the Philippines Annual Convention <br> Laoag, Philippines
 
 2014 <br>
-[**Mathematical Modelling of Insulin Resistance Linking Type 2 Diabetes and Alzheimer’s Disease**](http://www.icm2014.org/en/program/scientific/poster.html) <br> International Congress of Mathematics <br> Seoul, Korea
+[**Mathematical Modelling of Insulin Resistance Linking Type 2 Diabetes and Alzheimer’s Disease**](http://www.icm2014.org/index.html) <br> International Congress of Mathematics <br> Seoul, Korea
 
 **Stochastic process algebra modeling of APP processing influenced by SORLA in Alzheimer’s Disease** <br> Mathematical Society of the Philippines Annual Convention <br> Iloilo, Philippines
 
 2012 <br>
-**Regulated trafficking of APP by SORLA in Alzheimer’s disease** <br> Systems Medicine International Conference <br> Dublin, Ireland
+[**Regulated trafficking of APP by SORLA in Alzheimer’s disease**](https://www.ucd.ie/t4cms/SYSMED%202012%20Programme.pdf) <br> Systems Medicine International Conference <br> Dublin, Ireland
 
 **Multi-compartmental modeling of APP processing influenced by SORLA in Alzheimer’s disease** <br> 13th International Conference on Systems Biology (ICSB) <br> Toronto, Canada
 
@@ -148,6 +148,6 @@ DS Tan, RN Leong, AF Laguna, CA Ngo, <u>A Lao</u>, D Amalin, and D Alvindia. [**
 **Mathematical modeling of APP processing influenced by SORLA in Alzheimer’s disease: when one pathway is not enough** <br> 12th International Conference on Systems Biology (ICSB) <br> Heidelberg/Mannheim, Germany
 
 2010 <br>
-**Quantitative modeling of APP processing influenced by SORLA in Alzheimer’s disease** <br> International Conference on Alzheimer’s Disease 2010 <br> Honolulu, Hawaii
+[**Quantitative modeling of APP processing influenced by SORLA in Alzheimer’s disease**](https://www.alzforum.org/news/conference-coverage/alzheimers-association-international-conference-alzheimers-disease-2010) <br> International Conference on Alzheimer’s Disease 2010 <br> Honolulu, Hawaii
 
 **Mathematical modeling of APP processing influenced by SORLA in Alzheimer’s disease: two pilot models** <br> Mid-term review of the Helmholtz Alliance on Systems Biology <br> DKFZ, Heidelberg, Germany
