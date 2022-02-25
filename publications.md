@@ -152,7 +152,6 @@ DS Tan, RN Leong, AF Laguna, CA Ngo, <u>A. Lao</u>, D Amalin, and D Alvindia. <b
 V. Schmidt, <u>A. Lao</u>, K. Baum, K. Rateitschak, Y. Schmitz, C. Munck Petersen, A. Nykjaer, J. Wolf, O. Wolkenhauer, and T.E. Willnow. <br>
 *The EMBO Journal, 31(1):187 - 200.*
 
-
 2009 <br>
 [**Systems approaches in molecular and cell biology: making sense out of data and providing meaning to models.**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7343/734318/Systems-approaches-in-molecular-and-cell-biology--making-sense/10.1117/12.822742.short?SSO=1) <br>
 O. Wolkenhauer, <u>A. Lao</u>, S. Omholt, and H. Martens. <br>
