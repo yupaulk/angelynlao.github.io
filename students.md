@@ -5,7 +5,7 @@ permalink: /students/
 ---
 GRADUATE STUDENTS MENTORSHIP
 
-2020 - present | **Topological Graph Convolutional Neural Network** <br> Frieda Faeldog (PhD Candidate in Mathematics)
+2020 - present &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Topological Graph Convolutional Neural Network** <br> Frieda Faeldog (PhD Candidate in Mathematics)
 | **Network Analysis of Depression** <br> Gabrielle Tiongson (PhD Candidate in Clinical Psychology)
 | **Network Analysis of Health Information Epidemic** <br> Feeroz Yusoph (MS Candidate in Mathematics)
 | **Mathematical Modeling of Aging** <br> Terrell Tan (MS Candidate in Mathematics)
@@ -20,7 +20,7 @@ GRADUATE STUDENTS MENTORSHIP
 
 UNDERGRADUATE STUDENTS MENTORSHIP
 
-2018 - 2019 | **Dynamical Models on the Interaction between Spreaders of and Exposed to Truth and Rumor** <br> Juan Miguel Augusto M. Feria & Michael Lawrence S. Oliva (BS in Mathematics)
+2018 - 2019 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Dynamical Models on the Interaction between Spreaders of and Exposed to Truth and Rumor** <br> Juan Miguel Augusto M. Feria & Michael Lawrence S. Oliva (BS in Mathematics)
 | **CRNet Translator: Building GMA, S-System Models and Chemical Reaction Networks of Disease and Metabolic Pathways** <br> Karen Fields (BS in Computer Science)
 2017 - 2018 | **Transmission Dynamics and Control Strategies Assessment of Avian Influenza A(H5N6) in the Philippines** <br> Hanl Lee (BS in Mathematics)
 | **[Extended Work on] Understanding the Effect of _Raphanus Sativus_ on Chronic Myeloid Leukemia, Breast, and Colon Cancer through Mathematical Modeling** <br> Daisylyn Senna Tan (BS in Biochemistry)

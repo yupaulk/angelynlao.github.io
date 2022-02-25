@@ -5,7 +5,7 @@ permalink: /bio/
 ---
 ACADEMIC BACKGROUND
 
-2008 - 2013 | **PhD in Systems Biology and Bioinformatics (Summa Cum Laude)** <br> Rostock University, 18051 Rostock, Germany <br> Department of Systems Biology and Bioinformatics <br> Thesis title: “A Systems Biology Approach to Understand the Influence of SORLA on Amyloidogenic Processing in Alzheimer’s Disease” <br> Supervisor: Prof. Dr. Olaf Wolkenhauer <br> (<http://www.sbi.uni-rostock.de>)
+2008 - 2013 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **PhD in Systems Biology and Bioinformatics (Summa Cum Laude)** <br> Rostock University, 18051 Rostock, Germany <br> Department of Systems Biology and Bioinformatics <br> Thesis title: “A Systems Biology Approach to Understand the Influence of SORLA on Amyloidogenic Processing in Alzheimer’s Disease” <br> Supervisor: Prof. Dr. Olaf Wolkenhauer <br> (<http://www.sbi.uni-rostock.de>)
 2001 - 2004 | **Masters of Science in Mathematics (With Distinction)** <br> De La Salle University, 2401 Taft Avenue, 1004 Manila, Philippines <br> Thesis title: “Factorization of Pretopological Spaces and Strong Product Graphs” <br> Supervisors: Prof. Dr. Severino Diesto and Dr. Eduardo Mendoza
 2000 - 2001 | **Certificate of Foreign Studies in Chinese language and literature** <br> Beijing Second Foreign Language University, Beijing, China
 1996 - 2000 | **Bachelor of Secondary Education in Computer Application (Magna Cum Laude)** <br> De La Salle University, 2401 Taft Avenue, 1004 Manila, Philippines
@@ -13,7 +13,7 @@ ACADEMIC BACKGROUND
 
 PROFESSIONAL EXPERIENCE
 
-2017 - present | **Assistant Dean for Research and Advanced Studies** <br> College of Science<br>De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2017 - present &nbsp; &nbsp; | **Assistant Dean for Research and Advanced Studies** <br> College of Science<br>De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2013 - present | **Associate Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2015 - 2018 | **Research Unit Head** <br> CENSER’s Mathematical and Statistical Modeling Unit <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2013 | **Postdoctoral** <br> Department of Systems Biology and Bioinformatics <br> University of Rostock, 18051 Rostock, Germany <br> (<http://www.sbi.uni-rostock.de/team/alumni/>)
@@ -27,7 +27,7 @@ PROFESSIONAL EXPERIENCE
 
 AWARDS
 
-2020 | **Outstanding Scientific Paper Award** <br> Philippines National Academy of Science and Technology
+2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Outstanding Scientific Paper Award** <br> Philippines National Academy of Science and Technology
 2018 - present | **Br. C. John Lynan FSC Professorial Chair in Mathematics** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2018 - present | **Br. Albinus Peter FSC Professorial Chair in Mathematics** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2018 | **Open Arms Travel Grant** <br> International Congress of Mathematicians/International Mathematical Union
@@ -41,7 +41,7 @@ AWARDS
 
 MEMBERSHIP IN PROFESSIONAL ORGANIZATION
 
-2020 - present | **Regular Member, NRCP (National Research Council of the Philippines)**
+2020 - present &nbsp; &nbsp; | **Regular Member, NRCP (National Research Council of the Philippines)**
 2019 - present | **SIAM (Society for Industrial and Applied Mathematics)**
 2019 - 2020 | **Associate Member, NRCP**
 2018 - present | **Associate Member, PAASE (Philippine American Academy of Scientists and Engineers)**
