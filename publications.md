@@ -157,7 +157,7 @@ V. Schmidt, <u>A. Lao</u>, K. Baum, K. Rateitschak, Y. Schmitz, C. Munck Peterse
 O. Wolkenhauer, <u>A. Lao</u>, S. Omholt, and H. Martens. <br>
 *Proceedings of SPIE, 7343(1): 734318-734318-11.*
 
-<i class="fa-regular fa-comments"></i> &nbsp; **CONFERENCE PROCEEDINGS**
+<i class="fa-solid fa-comments"></i> &nbsp; **CONFERENCE PROCEEDINGS**
 
 2020 <br>
 [**State Analysis of Three-node Network Motifs using Boolean Model.**](https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2020/FNH-15.pdf) <br>
