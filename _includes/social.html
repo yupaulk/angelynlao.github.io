@@ -10,17 +10,7 @@
     display: inline-block;
     fill: #{$grey-color};
     padding-right: 5px;
-    vertical-align: text-top;"><i class="ai ai-google-scholar-square ai-1x"></i>span> &nbsp; <span class="username">Google Scholar</span></a></li>{%- endif -%}
-  {%- if site.orcid_username -%}<li><a href="https://orcid.org/my-orcid?orcid={{ site.orcid_username | escape }}" target="_blank"><span style="width: 16px;
-    height: 16px;
-    display: inline-block;
-    fill: #{$grey-color};
-    padding-right: 5px;
-    vertical-align: text-top;"><i class="ai ai-orcid ai-1x"></i>span> &nbsp; <span class="username">Orcid</span></a></li>{%- endif -%}
-  {%- if site.researchgate_username -%}<li><a href="https://www.researchgate.net/profile/{{ site.researchgate_username | escape }}&hl=en" target="_blank"><span style="width: 16px;
-    height: 16px;
-    display: inline-block;
-    fill: #{$grey-color};
-    padding-right: 5px;
-    vertical-align: text-top;"><i class="ai ai-researchgate-square ai-1x"></i></span> &nbsp; <span class="username">Research Gate</span></a></li>{%- endif -%}
+    vertical-align: text-top;"><i class="ai ai-google-scholar-square ai-lg"></i></span> &nbsp; <span class="username">Google Scholar</span></a></li>{%- endif -%}
+  {%- if site.orcid_username -%}<li><a href="https://orcid.org/my-orcid?orcid={{ site.orcid_username | escape }}" target="_blank"><i class="ai ai-orcid ai-lg"></i> &nbsp; <span class="username">Orcid</span></a></li>{%- endif -%}
+  {%- if site.researchgate_username -%}<li><a href="https://www.researchgate.net/profile/{{ site.researchgate_username | escape }}&hl=en" target="_blank"><i class="ai ai-researchgate-square ai-lg"></i> &nbsp; <span class="username">Research Gate</span></a></li>{%- endif -%}
 </ul>
