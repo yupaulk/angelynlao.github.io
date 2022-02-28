@@ -15,6 +15,6 @@ Poster: <i class="fa-solid fa-desktop"></i> <br>
 Article: <i class="fa-regular fa-newspaper"></i> <br>
 Conference: <i class="fa-regular fa-comments"></i> <br>
 
-Academicons: 
+Academicons: <br>
 Research Gate: <i class="ai ai-researchgate"></i> <br>
 Google Scholar: <i class="ai ai-google-scholar"></i> <br>
