@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-**ARTICLES**
+<i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2022 <br>
 [**Stochastic Process Algebra Model of Amyloidogenic Processing in Alzheimer’s Disease.**](https://link.springer.com/chapter/10.1007/978-3-030-79606-8_18) <br>
@@ -157,7 +157,7 @@ V. Schmidt, <u>A. Lao</u>, K. Baum, K. Rateitschak, Y. Schmitz, C. Munck Peterse
 O. Wolkenhauer, <u>A. Lao</u>, S. Omholt, and H. Martens. <br>
 *Proceedings of SPIE, 7343(1): 734318-734318-11.*
 
-**CONFERENCE PROCEEDINGS**
+<i class="fa-regular fa-comments"></i> &nbsp; **CONFERENCE PROCEEDINGS**
 
 2020 <br>
 [**State Analysis of Three-node Network Motifs using Boolean Model.**](https://www.dlsu.edu.ph/wp-content/uploads/pdf/conferences/research-congress-proceedings/2020/FNH-15.pdf) <br>
@@ -178,7 +178,7 @@ JMC Edra, KD Talag, ML Enriquez, and <u>A Lao</u>. <br>
 DS Tan, RN Leong, AF Laguna, CA Ngo, <u>A Lao</u>, D Amalin, and D Alvindia. <br>
 *De La Salle University Research Congress.*
 
-**SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
+<i class="fa-solid fa-desktop"></i> &nbsp; **SUBMITTED ABSTRACTS/POSTERS/PAPERS IN CONFERENCES**
 
 2019 <br>
 **Systems Biology of Alzheimer’s Disease: Understanding How to Prevent or Delay its Onset or Progression** <br> *[International Congress for Industrial and Applied Mathematics](https://iciam2019.com/)* <br> 
