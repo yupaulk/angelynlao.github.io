@@ -13,8 +13,9 @@ ACADEMIC BACKGROUND
 
 PROFESSIONAL EXPERIENCE
 
-2017 - present &nbsp; &nbsp; | **Assistant Dean for Research and Advanced Studies** <br> College of Science<br>De La Salle University, Taft Avenue, Manila, 1004 Philippines
-2013 - present | **Associate Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2021 - present &nbsp; &nbsp; | **Full Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2017 - 2023 | **Assistant Dean for Research and Advanced Studies** <br> College of Science<br>De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2013 - 2020 | **Associate Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2015 - 2018 | **Research Unit Head** <br> CENSER’s Mathematical and Statistical Modeling Unit <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2013 | **Postdoctoral** <br> Department of Systems Biology and Bioinformatics <br> University of Rostock, 18051 Rostock, Germany <br> (<http://www.sbi.uni-rostock.de/team/alumni/>)
 2008 - 2012 | **Research Assistant** <br>Project title: Mathematical modeling of neurodegenerative processes in Alzheimer’s disease <br> Department of Systems Biology and Bioinformatics <br> University of Rostock, 18051 Rostock, Germany <br> (<http://www.sbi.uni-rostock.de/team/alumni/>)
@@ -28,23 +29,27 @@ PROFESSIONAL EXPERIENCE
 AWARDS
 
 2020 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | **Outstanding Scientific Paper Award** <br> Philippines National Academy of Science and Technology
-2018 - present | **Br. C. John Lynan FSC Professorial Chair in Mathematics** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
-2018 - present | **Br. Albinus Peter FSC Professorial Chair in Mathematics** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2018 - 2023 | **Br. C. John Lynan FSC Professorial Chair in Mathematics** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2018 - 2023 | **Br. Albinus Peter FSC Professorial Chair in Mathematics** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2018 | **Open Arms Travel Grant** <br> International Congress of Mathematicians/International Mathematical Union
 2018 | **Best Paper Presentation Award** <br> IEEE 9th International Conference on Information, Intelligence, Systems & Applications
 2016 | **Travel Grant** <br> The Abdus Salam International Centre for Theoretical Physics
 2016 | **Best Presentation Award** <br> Hands-On Research in Complex Systems School
-2015 - present | **Research Fellow** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2015 - 2018 | **Research Fellow** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2014 | **NANUM Travel Grant** <br> International Congress of Mathematicians/International Mathematical Union
 2013 | **Postdoctoral Fellowship** <br> Department of Systems Biology & Bioinformatics, University of Rostock, <br> Germany
 2009 - 2013 | **Student Research Fellowship** <br> Department of Systems Biology & Bioinformatics, University of Rostock, <br> Germany
 
 MEMBERSHIP IN PROFESSIONAL ORGANIZATION
 
-2020 - present &nbsp; &nbsp; | **Regular Member, NRCP (National Research Council of the Philippines)**
+2021 - present &nbsp; &nbsp; | **AC and EC members, EASIAM (East Asia Society for Industrial and Applied Mathematics)** 
+2021 - present | **Founding Member, Asian and Oceanian Women in Mathematics (AOWM)**
+2021 - present | **Board Member, Mathematical Society of the Philippines**
+2021 - present | **Regular Member, PAASE (Philippine American Academy of Scientists and Engineers)**
+2021 - present | **Regular Member, NRCP (National Research Council of the Philippines)**
 2019 - present | **SIAM (Society for Industrial and Applied Mathematics)**
 2019 - 2020 | **Associate Member, NRCP**
-2018 - present | **Associate Member, PAASE (Philippine American Academy of Scientists and Engineers)**
+2018 - 2020 | **Associate Member, PAASE (Philippine American Academy of Scientists and Engineers)**
 2017 - present | **Society for Mathematical Biology**
 2013 - present | **Mathematical Society of the Philippines**
 2002 - 2003 | **Mathematical Society of the Philippines**
