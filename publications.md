@@ -6,6 +6,10 @@ permalink: /publications/
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
 2022 <br>
+[**Concentration Robustness in LP Kinetic Systems.**](https://match.pmf.kg.ac.rs/electronic_versions/Match88/n1/match88n1_29-66.pdf) <br>
+<u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
+*MATCH Communication in Mathematical and Computer Chemistry, 88, 29-66.*
+
 [**Stochastic Process Algebra Model of Amyloidogenic Processing in Alzheimer’s Disease.**](https://link.springer.com/chapter/10.1007/978-3-030-79606-8_18) <br>
 <u>A. Lao</u>, M.A. Dela Cruz, G.J. Tenio, P. Sy, E. Mendoza. <br>
 *In Towards Intelligent Systems Modeling and Simulation, 249-263. Springer, Cham.*
@@ -14,10 +18,6 @@ permalink: /publications/
 [**Modelling vicious networks with P-graph causality maps.**](https://link.springer.com/article/10.1007/s10098-021-02096-x) <br>
 R. Tan, K. Aviso, <u>A. Lao</u>, M. Promentilla. <br>
 *Clean technologies and environmental policy 24 (1), 173-184.*
-
-[**Concentration Robustness in LP Kinetic Systems.**](https://arxiv.org/pdf/2110.13845.pdf) <br>
-<u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
-*arXiv preprint arXiv:2110.13845.
 
 [**Maintaining the Resilience and Productivity of Co-culture Systems in the Face of Environmental Change.**](https://assets.researchsquare.com/files/rs-856052/v1/e6bffec7-2219-479e-aaaa-52ee7ef110dc.pdf?c=1632234919) <br>
 <u>A. Lao</u>, K. Aviso, H. Cabezas, R. Tan.
@@ -101,6 +101,10 @@ D. Rodriguez, <u>A. Lao</u> and G.A. Solano. <br>
 *In 2018 9th International Conference on Information, Intelligence, Systems and Applications (IISA), IEEE.*
 
 2018 <br>
+[**Robustness in power-law kinetic systems with reactant-determined interactions.**](https://link.springer.com/chapter/10.1007/978-3-030-90048-9_9)<br>
+N. Fortun, <u>A. Lao</u>, L. Razon and E. Mendoza. <br>
+*In Japanese Conference on Discrete and Computational Geometry, Graphs, and Games, pp. 106-121. Springer, Cham, 2018.*
+
 [**A Deficiency-One Algorithm for power-law kinetic systems with reactant-determined interactions.**](https://link.springer.com/article/10.1007/s10910-018-0925-2) <br>
 N. Fortun, E. Mendoza, L. Razon and <u>A. Lao</u>. <br>
 *Journal of Mathematical Chemistry, 56,2929-2962.*
