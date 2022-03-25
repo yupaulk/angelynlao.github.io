@@ -5,30 +5,18 @@
 layout: home
 ---
 <style>
-* {
-  box-sizing: border-box;
-}
-
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
-  padding: 10px;
 }
 
 .left {
-  width: 60%;
+  width: 65%;
   text-align: justify;
 }
 
 .right {
-  width: 40%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
+  width: 35%;
 }
 </style>
 
@@ -43,7 +31,7 @@ layout: home
 	</div>
 	<div class="column right">
 	
-<img src='/assets/angelyn-lao.jpg' width='300' height='300' align='right' />
+<img src='/assets/angelyn-lao.jpg' width='300' height='450' align='right' />
 
 	</div>
 </div>
