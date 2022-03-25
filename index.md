@@ -11,12 +11,12 @@ layout: home
 }
 
 .left {
-  width: 65%;
+  width: 75%;
   text-align: justify;
 }
 
 .right {
-  width: 35%;
+  width: 25%;
 }
 </style>
 
@@ -30,6 +30,6 @@ layout: home
 		</p>
 	</div>
 	<div class="column right">
-		<img src='/assets/angelyn-lao.jpg' width='300' height='450' align='right' />
+		<img src='/assets/angelyn-lao.jpg' width='200' height='300' align='right' />
 	</div>
 </div>
