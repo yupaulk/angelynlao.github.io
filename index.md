@@ -31,7 +31,7 @@ layout: home
 	</div>
 	<div class="column right">
 	
-<img src='/assets/angelyn-lao.jpg' width='300' height='450' align='right' />
+<img src='/assets/angelyn-lao.jpg' width='200' height='300' align='right' />
 
 	</div>
 </div>
