@@ -11,12 +11,12 @@ layout: home
 }
 
 .left {
-  width: 65%;
+  width: 70%;
   text-align: justify;
 }
 
 .right {
-  width: 35%;
+  width: 30%;
 }
 </style>
 
