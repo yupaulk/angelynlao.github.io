@@ -15,14 +15,15 @@ PROFESSIONAL EXPERIENCE
 
 2022 &nbsp; &nbsp; | **Topic Editor** <br> Frontiers in Systems Biology <br> [Systems Biology, Women in Science 2021/22: Data and Model Integration](https://www.frontiersin.org/research-topics/25941/systems-biology-women-in-science-202122-data-and-model-integration)
 2021 - present | **Full Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2020 - present | **Research Unit Head** <br> [CENSER’s Systems and Computational Biology (SComB) Research Unit](https://dlsu-scomb.github.io/) <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2017 - 2023 | **Assistant Dean for Research and Advanced Studies** <br> College of Science<br>De La Salle University, Taft Avenue, Manila, 1004 Philippines
-2013 - 2020 | **Associate Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2015 - 2018 | **Research Unit Head** <br> CENSER’s Mathematical and Statistical Modeling Unit <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
+2013 - 2020 | **Associate Professor** <br> De La Salle University, Taft Avenue, Manila, 1004 Philippines
 2013 | **Postdoctoral** <br> Department of Systems Biology and Bioinformatics <br> University of Rostock, 18051 Rostock, Germany <br> (<http://www.sbi.uni-rostock.de/team/alumni/>)
 2008 - 2012 | **Research Assistant** <br>Project title: Mathematical modeling of neurodegenerative processes in Alzheimer’s disease <br> Department of Systems Biology and Bioinformatics <br> University of Rostock, 18051 Rostock, Germany <br> (<http://www.sbi.uni-rostock.de/team/alumni/>)
-2006 - 2008 | **Assistant Professor 1** <br> St. Scholastica’s College, 1004 Manila, Philippines
 2008 | **Research Assistant (programming with Java)** <br> Project title: theWeP (The Worldwide Experimental Platform) <br> <http://www.thewep.org/en/philshift study.php> <br> Ludwig Maximilians University, Germany
 2007 - 2008 | **Research Assistant (programming with Java)** <br> Project title: EUCLIS (EUCLock Information System) <br> <http://www.bioinfo.mpg.de/euclis/> <br> Ludwig Maximilians University, Germany
+2006 - 2008 | **Assistant Professor 1** <br> St. Scholastica’s College, 1004 Manila, Philippines
 2006 - 2007 | **Research Assistant (programming with ImageJ)** <br> Project title: Sartorious image analysis project <br> <http://www.sartorius.com/> <br> Headed by Dr. Eduardo Mendoza of the Ludwig Maximilians University, Germany
 2002 - 2005 | **Instructor** <br> De La Salle University, Taft Avenue, 1004 Manila, Philippines
 2001 - 2002 | **Assistant Instructor** <br> De La Salle University, Taft Avenue, 1004 Manila, Philippines
