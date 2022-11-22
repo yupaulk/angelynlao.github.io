@@ -5,9 +5,23 @@ permalink: /publications/
 ---
 <i class="fa-regular fa-newspaper"></i> &nbsp; **ARTICLES**
 
-2023 <br>
-
 2022 <br>
+[**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of *Candida albicans*.**](https://journals.asm.org/doi/10.1128/msystems.00691-22) <br>
+P.K. Yu, L.S. Moron-Espiritu, and <u>A. Lao</u>. <br>
+*mSystems*
+
+[**Mathematical Modeling of Fluconazole Resistance in the Ergosterol Pathway of *Candida albicans*.**](https://www.biorxiv.org/content/biorxiv/early/2022/06/12/2022.06.09.495576.full.pdf) <br>
+P.K. Yu, L.S. Moron-Espiritu, and <u>A. Lao</u>. <br>
+*bioRxiv doi:10.1101/2022.06.09.495576.*
+
+[**Systems Biology Approach of Understanding Insulin Resistance: Linkage between Type 2 Diabetes & Alzheimer’s Disease.**](https://www.biorxiv.org/content/biorxiv/early/2022/04/15/2022.04.13.463890.full.pdf) <br>
+O.B. Villasis, D.S. Tan, E. Mendoza, and <u>A. Lao</u>. <br>
+*bioRxiv doi:10.1101/2022.04.13.463890.*
+
+[**Reaction Network Analysis of Metabolic Insulin Signaling.**](https://link.springer.com/article/10.1007/s11538-022-01087-3) <br>
+P. Lubenia, E. Mendoza, and <u>A. Lao</u> <br>
+*Bulletin of Mathematical Biology, 84(129).*
+
 [**Concentration Robustness in LP Kinetic Systems.**](https://match.pmf.kg.ac.rs/electronic_versions/Match88/n1/match88n1_29-66.pdf) <br>
 <u>A. Lao</u>, P. Lubenia, D. Magpantay, E. Mendoza. <br>
 *MATCH Communication in Mathematical and Computer Chemistry, 88, 29-66.*
